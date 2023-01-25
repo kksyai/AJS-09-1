@@ -1,6 +1,6 @@
 import Chatacter from './Character.js';
 
-export default class Magician extends Chatacter {
+export default class Demon extends Chatacter {
   constructor(distance) {
     super();
     this.distance = distance;
